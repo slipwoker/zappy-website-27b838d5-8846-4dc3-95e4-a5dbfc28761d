@@ -1,0 +1,58 @@
+# Sharon — Generative Engine Optimization Map
+
+> A חיות מחמד business.
+
+---
+
+## Pages
+
+### בית
+https://sharon-27b838d5.zappy5.app
+גלו את חנות חיות המחמד המובילה בישראל עם מוצרים לחיות מחמד איכותיים וציוד מקצועי. Sharon מציעה פתרונות חדשניים לחובבי חיות מחמד עירוניים.
+
+### מוצרים ושירותים
+https://sharon-27b838d5.zappy5.app/services
+גלו את המגוון המלא של מוצרים לחיות מחמד ב-Sharon: מיטות, צעצועים, מזון איכותי וציוד טיפוח. חנות חיות מחמד בישראל המובילה.
+
+### אודות
+https://sharon-27b838d5.zappy5.app/about
+הכירו את Sharon - חנות חיות מחמד בישראל שנוסדה מתוך אהבה אמיתית לחיות. למדו על הערכים, החזון והמחויבות שלנו למוצרים לחיות מחמד איכותיים.
+
+### צור קשר
+https://sharon-27b838d5.zappy5.app/contact
+צרו קשר עם Sharon לייעוץ מקצועי על מוצרים לחיות מחמד וציוד לחיות מחמד. אנחנו כאן כדי לעזור לכם ולחיית המחמד שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://sharon-27b838d5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sharon-27b838d5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sharon-27b838d5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sharon
+Sharon is a business in the חיות מחמד industry.
+
+## Target Audience
+- חובבי חיות מחמד עירוניים
+- אנשי מקצוע בתחום חיות המחמד
+
+## Industry
+חיות מחמד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://sharon-27b838d5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sharon-27b838d5.zappy5.app/robots.txt

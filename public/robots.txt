@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharon-27b838d5.zappy5.app/sitemap.xml
